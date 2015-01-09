@@ -1,0 +1,676 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Seks komedier</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">LUDVIG HOLBERG</dc:creator>
+      <meta refines="#creator" property="file-as">LUDVIG HOLBERG</meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">
+
+        </dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Seks komedier / LUDVIG HOLBERG</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Danske KlassikereDet danske Sprog- og LitteraturselskabBorgen</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2014-12-02</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <meta property="dcterms:modified">2014-12-02T14:31:04Z</meta>
+   </metadata>
+   <manifest>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.html"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.html"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.html"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.html"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="workid54555.html"
+            media-type="application/xhtml+xml"
+            id="section4"/>
+      <item href="workid64787.html"
+            media-type="application/xhtml+xml"
+            id="section43"/>
+      <item href="workid71363.html"
+            media-type="application/xhtml+xml"
+            id="section77"/>
+      <item href="workid80786.html"
+            media-type="application/xhtml+xml"
+            id="section134"/>
+      <item href="workid90815.html"
+            media-type="application/xhtml+xml"
+            id="section167"/>
+      <item href="workid104431.html"
+            media-type="application/xhtml+xml"
+            id="section204"/>
+      <item href="index-back.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section235"/>
+      <item href="index-back.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section255"/>
+      <item href="holb14001" id="pbimage-1" media-type="image/jpeg"/>
+      <item href="holb14002" id="pbimage-2" media-type="image/jpeg"/>
+      <item href="holb14003" id="pbimage-3" media-type="image/jpeg"/>
+      <item href="holb14004" id="pbimage-4" media-type="image/jpeg"/>
+      <item href="holb14005" id="pbimage-5" media-type="image/jpeg"/>
+      <item href="holb14006" id="pbimage-6" media-type="image/jpeg"/>
+      <item href="holb14007" id="pbimage-7" media-type="image/jpeg"/>
+      <item href="holb14008" id="pbimage-8" media-type="image/jpeg"/>
+      <item href="holb14009" id="pbimage-9" media-type="image/jpeg"/>
+      <item href="holb14010" id="pbimage-10" media-type="image/jpeg"/>
+      <item href="holb14011" id="pbimage-11" media-type="image/jpeg"/>
+      <item href="holb14012" id="pbimage-12" media-type="image/jpeg"/>
+      <item href="holb14013" id="pbimage-13" media-type="image/jpeg"/>
+      <item href="holb14014" id="pbimage-14" media-type="image/jpeg"/>
+      <item href="holb14015" id="pbimage-15" media-type="image/jpeg"/>
+      <item href="holb14016" id="pbimage-16" media-type="image/jpeg"/>
+      <item href="holb14017" id="pbimage-17" media-type="image/jpeg"/>
+      <item href="holb14018" id="pbimage-18" media-type="image/jpeg"/>
+      <item href="holb14019" id="pbimage-19" media-type="image/jpeg"/>
+      <item href="holb14020" id="pbimage-20" media-type="image/jpeg"/>
+      <item href="holb14021" id="pbimage-21" media-type="image/jpeg"/>
+      <item href="holb14022" id="pbimage-22" media-type="image/jpeg"/>
+      <item href="holb14023" id="pbimage-23" media-type="image/jpeg"/>
+      <item href="holb14024" id="pbimage-24" media-type="image/jpeg"/>
+      <item href="holb14025" id="pbimage-25" media-type="image/jpeg"/>
+      <item href="holb14026" id="pbimage-26" media-type="image/jpeg"/>
+      <item href="holb14027" id="pbimage-27" media-type="image/jpeg"/>
+      <item href="holb14028" id="pbimage-28" media-type="image/jpeg"/>
+      <item href="holb14029" id="pbimage-29" media-type="image/jpeg"/>
+      <item href="holb14030" id="pbimage-30" media-type="image/jpeg"/>
+      <item href="holb14031" id="pbimage-31" media-type="image/jpeg"/>
+      <item href="holb14032" id="pbimage-32" media-type="image/jpeg"/>
+      <item href="holb14033" id="pbimage-33" media-type="image/jpeg"/>
+      <item href="holb14034" id="pbimage-34" media-type="image/jpeg"/>
+      <item href="holb14035" id="pbimage-35" media-type="image/jpeg"/>
+      <item href="holb14036" id="pbimage-36" media-type="image/jpeg"/>
+      <item href="holb14037" id="pbimage-37" media-type="image/jpeg"/>
+      <item href="holb14038" id="pbimage-38" media-type="image/jpeg"/>
+      <item href="holb14039" id="pbimage-39" media-type="image/jpeg"/>
+      <item href="holb14040" id="pbimage-40" media-type="image/jpeg"/>
+      <item href="holb14041" id="pbimage-41" media-type="image/jpeg"/>
+      <item href="holb14042" id="pbimage-42" media-type="image/jpeg"/>
+      <item href="holb14043" id="pbimage-43" media-type="image/jpeg"/>
+      <item href="holb14044" id="pbimage-44" media-type="image/jpeg"/>
+      <item href="holb14045" id="pbimage-45" media-type="image/jpeg"/>
+      <item href="holb14046" id="pbimage-46" media-type="image/jpeg"/>
+      <item href="holb14047" id="pbimage-47" media-type="image/jpeg"/>
+      <item href="holb14048" id="pbimage-48" media-type="image/jpeg"/>
+      <item href="holb14049" id="pbimage-49" media-type="image/jpeg"/>
+      <item href="holb14050" id="pbimage-50" media-type="image/jpeg"/>
+      <item href="holb14051" id="pbimage-51" media-type="image/jpeg"/>
+      <item href="holb14052" id="pbimage-52" media-type="image/jpeg"/>
+      <item href="holb14053" id="pbimage-53" media-type="image/jpeg"/>
+      <item href="holb14054" id="pbimage-54" media-type="image/jpeg"/>
+      <item href="holb14055" id="pbimage-55" media-type="image/jpeg"/>
+      <item href="holb14056" id="pbimage-56" media-type="image/jpeg"/>
+      <item href="holb14057" id="pbimage-57" media-type="image/jpeg"/>
+      <item href="holb14058" id="pbimage-58" media-type="image/jpeg"/>
+      <item href="holb14059" id="pbimage-59" media-type="image/jpeg"/>
+      <item href="holb14060" id="pbimage-60" media-type="image/jpeg"/>
+      <item href="holb14061" id="pbimage-61" media-type="image/jpeg"/>
+      <item href="holb14062" id="pbimage-62" media-type="image/jpeg"/>
+      <item href="holb14063" id="pbimage-63" media-type="image/jpeg"/>
+      <item href="holb14064" id="pbimage-64" media-type="image/jpeg"/>
+      <item href="holb14065" id="pbimage-65" media-type="image/jpeg"/>
+      <item href="holb14066" id="pbimage-66" media-type="image/jpeg"/>
+      <item href="holb14067" id="pbimage-67" media-type="image/jpeg"/>
+      <item href="holb14068" id="pbimage-68" media-type="image/jpeg"/>
+      <item href="holb14069" id="pbimage-69" media-type="image/jpeg"/>
+      <item href="holb14070" id="pbimage-70" media-type="image/jpeg"/>
+      <item href="holb14071" id="pbimage-71" media-type="image/jpeg"/>
+      <item href="holb14072" id="pbimage-72" media-type="image/jpeg"/>
+      <item href="holb14073" id="pbimage-73" media-type="image/jpeg"/>
+      <item href="holb14074" id="pbimage-74" media-type="image/jpeg"/>
+      <item href="holb14075" id="pbimage-75" media-type="image/jpeg"/>
+      <item href="holb14076" id="pbimage-76" media-type="image/jpeg"/>
+      <item href="holb14077" id="pbimage-77" media-type="image/jpeg"/>
+      <item href="holb14078" id="pbimage-78" media-type="image/jpeg"/>
+      <item href="holb14079" id="pbimage-79" media-type="image/jpeg"/>
+      <item href="holb14080" id="pbimage-80" media-type="image/jpeg"/>
+      <item href="holb14081" id="pbimage-81" media-type="image/jpeg"/>
+      <item href="holb14082" id="pbimage-82" media-type="image/jpeg"/>
+      <item href="holb14083" id="pbimage-83" media-type="image/jpeg"/>
+      <item href="holb14084" id="pbimage-84" media-type="image/jpeg"/>
+      <item href="holb14085" id="pbimage-85" media-type="image/jpeg"/>
+      <item href="holb14086" id="pbimage-86" media-type="image/jpeg"/>
+      <item href="holb14087" id="pbimage-87" media-type="image/jpeg"/>
+      <item href="holb14088" id="pbimage-88" media-type="image/jpeg"/>
+      <item href="holb14089" id="pbimage-89" media-type="image/jpeg"/>
+      <item href="holb14090" id="pbimage-90" media-type="image/jpeg"/>
+      <item href="holb14091" id="pbimage-91" media-type="image/jpeg"/>
+      <item href="holb14092" id="pbimage-92" media-type="image/jpeg"/>
+      <item href="holb14093" id="pbimage-93" media-type="image/jpeg"/>
+      <item href="holb14094" id="pbimage-94" media-type="image/jpeg"/>
+      <item href="holb14095" id="pbimage-95" media-type="image/jpeg"/>
+      <item href="holb14096" id="pbimage-96" media-type="image/jpeg"/>
+      <item href="holb14097" id="pbimage-97" media-type="image/jpeg"/>
+      <item href="holb14098" id="pbimage-98" media-type="image/jpeg"/>
+      <item href="holb14099" id="pbimage-99" media-type="image/jpeg"/>
+      <item href="holb14100" id="pbimage-100" media-type="image/jpeg"/>
+      <item href="holb14101" id="pbimage-101" media-type="image/jpeg"/>
+      <item href="holb14102" id="pbimage-102" media-type="image/jpeg"/>
+      <item href="holb14103" id="pbimage-103" media-type="image/jpeg"/>
+      <item href="holb14104" id="pbimage-104" media-type="image/jpeg"/>
+      <item href="holb14105" id="pbimage-105" media-type="image/jpeg"/>
+      <item href="holb14106" id="pbimage-106" media-type="image/jpeg"/>
+      <item href="holb14107" id="pbimage-107" media-type="image/jpeg"/>
+      <item href="holb14108" id="pbimage-108" media-type="image/jpeg"/>
+      <item href="holb14109" id="pbimage-109" media-type="image/jpeg"/>
+      <item href="holb14110" id="pbimage-110" media-type="image/jpeg"/>
+      <item href="holb14111" id="pbimage-111" media-type="image/jpeg"/>
+      <item href="holb14112" id="pbimage-112" media-type="image/jpeg"/>
+      <item href="holb14113" id="pbimage-113" media-type="image/jpeg"/>
+      <item href="holb14114" id="pbimage-114" media-type="image/jpeg"/>
+      <item href="holb14115" id="pbimage-115" media-type="image/jpeg"/>
+      <item href="holb14116" id="pbimage-116" media-type="image/jpeg"/>
+      <item href="holb14117" id="pbimage-117" media-type="image/jpeg"/>
+      <item href="holb14118" id="pbimage-118" media-type="image/jpeg"/>
+      <item href="holb14119" id="pbimage-119" media-type="image/jpeg"/>
+      <item href="holb14120" id="pbimage-120" media-type="image/jpeg"/>
+      <item href="holb14121" id="pbimage-121" media-type="image/jpeg"/>
+      <item href="holb14122" id="pbimage-122" media-type="image/jpeg"/>
+      <item href="holb14123" id="pbimage-123" media-type="image/jpeg"/>
+      <item href="holb14124" id="pbimage-124" media-type="image/jpeg"/>
+      <item href="holb14125" id="pbimage-125" media-type="image/jpeg"/>
+      <item href="holb14126" id="pbimage-126" media-type="image/jpeg"/>
+      <item href="holb14127" id="pbimage-127" media-type="image/jpeg"/>
+      <item href="holb14128" id="pbimage-128" media-type="image/jpeg"/>
+      <item href="holb14129" id="pbimage-129" media-type="image/jpeg"/>
+      <item href="holb14130" id="pbimage-130" media-type="image/jpeg"/>
+      <item href="holb14131" id="pbimage-131" media-type="image/jpeg"/>
+      <item href="holb14132" id="pbimage-132" media-type="image/jpeg"/>
+      <item href="holb14133" id="pbimage-133" media-type="image/jpeg"/>
+      <item href="holb14134" id="pbimage-134" media-type="image/jpeg"/>
+      <item href="holb14135" id="pbimage-135" media-type="image/jpeg"/>
+      <item href="holb14136" id="pbimage-136" media-type="image/jpeg"/>
+      <item href="holb14137" id="pbimage-137" media-type="image/jpeg"/>
+      <item href="holb14138" id="pbimage-138" media-type="image/jpeg"/>
+      <item href="holb14139" id="pbimage-139" media-type="image/jpeg"/>
+      <item href="holb14140" id="pbimage-140" media-type="image/jpeg"/>
+      <item href="holb14141" id="pbimage-141" media-type="image/jpeg"/>
+      <item href="holb14142" id="pbimage-142" media-type="image/jpeg"/>
+      <item href="holb14143" id="pbimage-143" media-type="image/jpeg"/>
+      <item href="holb14144" id="pbimage-144" media-type="image/jpeg"/>
+      <item href="holb14145" id="pbimage-145" media-type="image/jpeg"/>
+      <item href="holb14146" id="pbimage-146" media-type="image/jpeg"/>
+      <item href="holb14147" id="pbimage-147" media-type="image/jpeg"/>
+      <item href="holb14148" id="pbimage-148" media-type="image/jpeg"/>
+      <item href="holb14149" id="pbimage-149" media-type="image/jpeg"/>
+      <item href="holb14150" id="pbimage-150" media-type="image/jpeg"/>
+      <item href="holb14151" id="pbimage-151" media-type="image/jpeg"/>
+      <item href="holb14152" id="pbimage-152" media-type="image/jpeg"/>
+      <item href="holb14153" id="pbimage-153" media-type="image/jpeg"/>
+      <item href="holb14154" id="pbimage-154" media-type="image/jpeg"/>
+      <item href="holb14155" id="pbimage-155" media-type="image/jpeg"/>
+      <item href="holb14156" id="pbimage-156" media-type="image/jpeg"/>
+      <item href="holb14157" id="pbimage-157" media-type="image/jpeg"/>
+      <item href="holb14158" id="pbimage-158" media-type="image/jpeg"/>
+      <item href="holb14159" id="pbimage-159" media-type="image/jpeg"/>
+      <item href="holb14160" id="pbimage-160" media-type="image/jpeg"/>
+      <item href="holb14161" id="pbimage-161" media-type="image/jpeg"/>
+      <item href="holb14162" id="pbimage-162" media-type="image/jpeg"/>
+      <item href="holb14163" id="pbimage-163" media-type="image/jpeg"/>
+      <item href="holb14164" id="pbimage-164" media-type="image/jpeg"/>
+      <item href="holb14165" id="pbimage-165" media-type="image/jpeg"/>
+      <item href="holb14166" id="pbimage-166" media-type="image/jpeg"/>
+      <item href="holb14167" id="pbimage-167" media-type="image/jpeg"/>
+      <item href="holb14168" id="pbimage-168" media-type="image/jpeg"/>
+      <item href="holb14169" id="pbimage-169" media-type="image/jpeg"/>
+      <item href="holb14170" id="pbimage-170" media-type="image/jpeg"/>
+      <item href="holb14171" id="pbimage-171" media-type="image/jpeg"/>
+      <item href="holb14172" id="pbimage-172" media-type="image/jpeg"/>
+      <item href="holb14173" id="pbimage-173" media-type="image/jpeg"/>
+      <item href="holb14174" id="pbimage-174" media-type="image/jpeg"/>
+      <item href="holb14175" id="pbimage-175" media-type="image/jpeg"/>
+      <item href="holb14176" id="pbimage-176" media-type="image/jpeg"/>
+      <item href="holb14177" id="pbimage-177" media-type="image/jpeg"/>
+      <item href="holb14178" id="pbimage-178" media-type="image/jpeg"/>
+      <item href="holb14179" id="pbimage-179" media-type="image/jpeg"/>
+      <item href="holb14180" id="pbimage-180" media-type="image/jpeg"/>
+      <item href="holb14181" id="pbimage-181" media-type="image/jpeg"/>
+      <item href="holb14182" id="pbimage-182" media-type="image/jpeg"/>
+      <item href="holb14183" id="pbimage-183" media-type="image/jpeg"/>
+      <item href="holb14184" id="pbimage-184" media-type="image/jpeg"/>
+      <item href="holb14185" id="pbimage-185" media-type="image/jpeg"/>
+      <item href="holb14186" id="pbimage-186" media-type="image/jpeg"/>
+      <item href="holb14187" id="pbimage-187" media-type="image/jpeg"/>
+      <item href="holb14188" id="pbimage-188" media-type="image/jpeg"/>
+      <item href="holb14189" id="pbimage-189" media-type="image/jpeg"/>
+      <item href="holb14190" id="pbimage-190" media-type="image/jpeg"/>
+      <item href="holb14191" id="pbimage-191" media-type="image/jpeg"/>
+      <item href="holb14192" id="pbimage-192" media-type="image/jpeg"/>
+      <item href="holb14193" id="pbimage-193" media-type="image/jpeg"/>
+      <item href="holb14194" id="pbimage-194" media-type="image/jpeg"/>
+      <item href="holb14195" id="pbimage-195" media-type="image/jpeg"/>
+      <item href="holb14196" id="pbimage-196" media-type="image/jpeg"/>
+      <item href="holb14197" id="pbimage-197" media-type="image/jpeg"/>
+      <item href="holb14198" id="pbimage-198" media-type="image/jpeg"/>
+      <item href="holb14199" id="pbimage-199" media-type="image/jpeg"/>
+      <item href="holb14200" id="pbimage-200" media-type="image/jpeg"/>
+      <item href="holb14201" id="pbimage-201" media-type="image/jpeg"/>
+      <item href="holb14202" id="pbimage-202" media-type="image/jpeg"/>
+      <item href="holb14203" id="pbimage-203" media-type="image/jpeg"/>
+      <item href="holb14204" id="pbimage-204" media-type="image/jpeg"/>
+      <item href="holb14205" id="pbimage-205" media-type="image/jpeg"/>
+      <item href="holb14206" id="pbimage-206" media-type="image/jpeg"/>
+      <item href="holb14207" id="pbimage-207" media-type="image/jpeg"/>
+      <item href="holb14208" id="pbimage-208" media-type="image/jpeg"/>
+      <item href="holb14209" id="pbimage-209" media-type="image/jpeg"/>
+      <item href="holb14210" id="pbimage-210" media-type="image/jpeg"/>
+      <item href="holb14211" id="pbimage-211" media-type="image/jpeg"/>
+      <item href="holb14212" id="pbimage-212" media-type="image/jpeg"/>
+      <item href="holb14213" id="pbimage-213" media-type="image/jpeg"/>
+      <item href="holb14214" id="pbimage-214" media-type="image/jpeg"/>
+      <item href="holb14215" id="pbimage-215" media-type="image/jpeg"/>
+      <item href="holb14216" id="pbimage-216" media-type="image/jpeg"/>
+      <item href="holb14217" id="pbimage-217" media-type="image/jpeg"/>
+      <item href="holb14218" id="pbimage-218" media-type="image/jpeg"/>
+      <item href="holb14219" id="pbimage-219" media-type="image/jpeg"/>
+      <item href="holb14220" id="pbimage-220" media-type="image/jpeg"/>
+      <item href="holb14221" id="pbimage-221" media-type="image/jpeg"/>
+      <item href="holb14222" id="pbimage-222" media-type="image/jpeg"/>
+      <item href="holb14223" id="pbimage-223" media-type="image/jpeg"/>
+      <item href="holb14224" id="pbimage-224" media-type="image/jpeg"/>
+      <item href="holb14225" id="pbimage-225" media-type="image/jpeg"/>
+      <item href="holb14226" id="pbimage-226" media-type="image/jpeg"/>
+      <item href="holb14227" id="pbimage-227" media-type="image/jpeg"/>
+      <item href="holb14228" id="pbimage-228" media-type="image/jpeg"/>
+      <item href="holb14229" id="pbimage-229" media-type="image/jpeg"/>
+      <item href="holb14230" id="pbimage-230" media-type="image/jpeg"/>
+      <item href="holb14231" id="pbimage-231" media-type="image/jpeg"/>
+      <item href="holb14232" id="pbimage-232" media-type="image/jpeg"/>
+      <item href="holb14233" id="pbimage-233" media-type="image/jpeg"/>
+      <item href="holb14234" id="pbimage-234" media-type="image/jpeg"/>
+      <item href="holb14235" id="pbimage-235" media-type="image/jpeg"/>
+      <item href="holb14236" id="pbimage-236" media-type="image/jpeg"/>
+      <item href="holb14237" id="pbimage-237" media-type="image/jpeg"/>
+      <item href="holb14238" id="pbimage-238" media-type="image/jpeg"/>
+      <item href="holb14239" id="pbimage-239" media-type="image/jpeg"/>
+      <item href="holb14240" id="pbimage-240" media-type="image/jpeg"/>
+      <item href="holb14241" id="pbimage-241" media-type="image/jpeg"/>
+      <item href="holb14242" id="pbimage-242" media-type="image/jpeg"/>
+      <item href="holb14243" id="pbimage-243" media-type="image/jpeg"/>
+      <item href="holb14244" id="pbimage-244" media-type="image/jpeg"/>
+      <item href="holb14245" id="pbimage-245" media-type="image/jpeg"/>
+      <item href="holb14246" id="pbimage-246" media-type="image/jpeg"/>
+      <item href="holb14247" id="pbimage-247" media-type="image/jpeg"/>
+      <item href="holb14248" id="pbimage-248" media-type="image/jpeg"/>
+      <item href="holb14249" id="pbimage-249" media-type="image/jpeg"/>
+      <item href="holb14250" id="pbimage-250" media-type="image/jpeg"/>
+      <item href="holb14251" id="pbimage-251" media-type="image/jpeg"/>
+      <item href="holb14252" id="pbimage-252" media-type="image/jpeg"/>
+      <item href="holb14253" id="pbimage-253" media-type="image/jpeg"/>
+      <item href="holb14254" id="pbimage-254" media-type="image/jpeg"/>
+      <item href="holb14255" id="pbimage-255" media-type="image/jpeg"/>
+      <item href="holb14256" id="pbimage-256" media-type="image/jpeg"/>
+      <item href="holb14257" id="pbimage-257" media-type="image/jpeg"/>
+      <item href="holb14258" id="pbimage-258" media-type="image/jpeg"/>
+      <item href="holb14259" id="pbimage-259" media-type="image/jpeg"/>
+      <item href="holb14260" id="pbimage-260" media-type="image/jpeg"/>
+      <item href="holb14261" id="pbimage-261" media-type="image/jpeg"/>
+      <item href="holb14262" id="pbimage-262" media-type="image/jpeg"/>
+      <item href="holb14263" id="pbimage-263" media-type="image/jpeg"/>
+      <item href="holb14264" id="pbimage-264" media-type="image/jpeg"/>
+      <item href="holb14265" id="pbimage-265" media-type="image/jpeg"/>
+      <item href="holb14266" id="pbimage-266" media-type="image/jpeg"/>
+      <item href="holb14267" id="pbimage-267" media-type="image/jpeg"/>
+      <item href="holb14268" id="pbimage-268" media-type="image/jpeg"/>
+      <item href="holb14269" id="pbimage-269" media-type="image/jpeg"/>
+      <item href="holb14270" id="pbimage-270" media-type="image/jpeg"/>
+      <item href="holb14271" id="pbimage-271" media-type="image/jpeg"/>
+      <item href="holb14272" id="pbimage-272" media-type="image/jpeg"/>
+      <item href="holb14273" id="pbimage-273" media-type="image/jpeg"/>
+      <item href="holb14274" id="pbimage-274" media-type="image/jpeg"/>
+      <item href="holb14275" id="pbimage-275" media-type="image/jpeg"/>
+      <item href="holb14276" id="pbimage-276" media-type="image/jpeg"/>
+      <item href="holb14277" id="pbimage-277" media-type="image/jpeg"/>
+      <item href="holb14278" id="pbimage-278" media-type="image/jpeg"/>
+      <item href="holb14279" id="pbimage-279" media-type="image/jpeg"/>
+      <item href="holb14280" id="pbimage-280" media-type="image/jpeg"/>
+      <item href="holb14281" id="pbimage-281" media-type="image/jpeg"/>
+      <item href="holb14282" id="pbimage-282" media-type="image/jpeg"/>
+      <item href="holb14283" id="pbimage-283" media-type="image/jpeg"/>
+      <item href="holb14284" id="pbimage-284" media-type="image/jpeg"/>
+      <item href="holb14285" id="pbimage-285" media-type="image/jpeg"/>
+      <item href="holb14286" id="pbimage-286" media-type="image/jpeg"/>
+      <item href="holb14287" id="pbimage-287" media-type="image/jpeg"/>
+      <item href="holb14288" id="pbimage-288" media-type="image/jpeg"/>
+      <item href="holb14289" id="pbimage-289" media-type="image/jpeg"/>
+      <item href="holb14290" id="pbimage-290" media-type="image/jpeg"/>
+      <item href="holb14291" id="pbimage-291" media-type="image/jpeg"/>
+      <item href="holb14292" id="pbimage-292" media-type="image/jpeg"/>
+      <item href="holb14293" id="pbimage-293" media-type="image/jpeg"/>
+      <item href="holb14294" id="pbimage-294" media-type="image/jpeg"/>
+      <item href="holb14295" id="pbimage-295" media-type="image/jpeg"/>
+      <item href="holb14296" id="pbimage-296" media-type="image/jpeg"/>
+      <item href="holb14297" id="pbimage-297" media-type="image/jpeg"/>
+      <item href="holb14298" id="pbimage-298" media-type="image/jpeg"/>
+      <item href="holb14299" id="pbimage-299" media-type="image/jpeg"/>
+      <item href="holb14300" id="pbimage-300" media-type="image/jpeg"/>
+      <item href="holb14301" id="pbimage-301" media-type="image/jpeg"/>
+      <item href="holb14302" id="pbimage-302" media-type="image/jpeg"/>
+      <item href="holb14303" id="pbimage-303" media-type="image/jpeg"/>
+      <item href="holb14304" id="pbimage-304" media-type="image/jpeg"/>
+      <item href="holb14305" id="pbimage-305" media-type="image/jpeg"/>
+      <item href="holb14306" id="pbimage-306" media-type="image/jpeg"/>
+      <item href="holb14307" id="pbimage-307" media-type="image/jpeg"/>
+      <item href="holb14308" id="pbimage-308" media-type="image/jpeg"/>
+      <item href="holb14309" id="pbimage-309" media-type="image/jpeg"/>
+      <item href="holb14310" id="pbimage-310" media-type="image/jpeg"/>
+      <item href="holb14311" id="pbimage-311" media-type="image/jpeg"/>
+      <item href="holb14312" id="pbimage-312" media-type="image/jpeg"/>
+      <item href="holb14313" id="pbimage-313" media-type="image/jpeg"/>
+      <item href="holb14314" id="pbimage-314" media-type="image/jpeg"/>
+      <item href="holb14315" id="pbimage-315" media-type="image/jpeg"/>
+      <item href="holb14316" id="pbimage-316" media-type="image/jpeg"/>
+      <item href="holb14317" id="pbimage-317" media-type="image/jpeg"/>
+      <item href="holb14318" id="pbimage-318" media-type="image/jpeg"/>
+      <item href="holb14319" id="pbimage-319" media-type="image/jpeg"/>
+      <item href="holb14320" id="pbimage-320" media-type="image/jpeg"/>
+      <item href="holb14321" id="pbimage-321" media-type="image/jpeg"/>
+      <item href="holb14322" id="pbimage-322" media-type="image/jpeg"/>
+      <item href="holb14323" id="pbimage-323" media-type="image/jpeg"/>
+      <item href="holb14324" id="pbimage-324" media-type="image/jpeg"/>
+      <item href="holb14325" id="pbimage-325" media-type="image/jpeg"/>
+      <item href="holb14326" id="pbimage-326" media-type="image/jpeg"/>
+      <item href="holb14327" id="pbimage-327" media-type="image/jpeg"/>
+      <item href="holb14328" id="pbimage-328" media-type="image/jpeg"/>
+      <item href="holb14329" id="pbimage-329" media-type="image/jpeg"/>
+      <item href="holb14330" id="pbimage-330" media-type="image/jpeg"/>
+      <item href="holb14331" id="pbimage-331" media-type="image/jpeg"/>
+      <item href="holb14332" id="pbimage-332" media-type="image/jpeg"/>
+      <item href="holb14333" id="pbimage-333" media-type="image/jpeg"/>
+      <item href="holb14334" id="pbimage-334" media-type="image/jpeg"/>
+      <item href="holb14335" id="pbimage-335" media-type="image/jpeg"/>
+      <item href="holb14336" id="pbimage-336" media-type="image/jpeg"/>
+      <item href="holb14337" id="pbimage-337" media-type="image/jpeg"/>
+      <item href="holb14338" id="pbimage-338" media-type="image/jpeg"/>
+      <item href="holb14339" id="pbimage-339" media-type="image/jpeg"/>
+      <item href="holb14340" id="pbimage-340" media-type="image/jpeg"/>
+      <item href="holb14341" id="pbimage-341" media-type="image/jpeg"/>
+      <item href="holb14342" id="pbimage-342" media-type="image/jpeg"/>
+      <item href="holb14343" id="pbimage-343" media-type="image/jpeg"/>
+      <item href="holb14344" id="pbimage-344" media-type="image/jpeg"/>
+      <item href="holb14345" id="pbimage-345" media-type="image/jpeg"/>
+      <item href="holb14346" id="pbimage-346" media-type="image/jpeg"/>
+      <item href="holb14347" id="pbimage-347" media-type="image/jpeg"/>
+      <item href="holb14348" id="pbimage-348" media-type="image/jpeg"/>
+      <item href="holb14349" id="pbimage-349" media-type="image/jpeg"/>
+      <item href="holb14350" id="pbimage-350" media-type="image/jpeg"/>
+      <item href="holb14351" id="pbimage-351" media-type="image/jpeg"/>
+      <item href="holb14352" id="pbimage-352" media-type="image/jpeg"/>
+      <item href="holb14353" id="pbimage-353" media-type="image/jpeg"/>
+      <item href="holb14354" id="pbimage-354" media-type="image/jpeg"/>
+      <item href="holb14355" id="pbimage-355" media-type="image/jpeg"/>
+      <item href="holb14356" id="pbimage-356" media-type="image/jpeg"/>
+      <item href="holb14357" id="pbimage-357" media-type="image/jpeg"/>
+      <item href="holb14358" id="pbimage-358" media-type="image/jpeg"/>
+      <item href="holb14359" id="pbimage-359" media-type="image/jpeg"/>
+      <item href="holb14360" id="pbimage-360" media-type="image/jpeg"/>
+      <item href="holb14361" id="pbimage-361" media-type="image/jpeg"/>
+      <item href="holb14362" id="pbimage-362" media-type="image/jpeg"/>
+      <item href="holb14363" id="pbimage-363" media-type="image/jpeg"/>
+      <item href="holb14364" id="pbimage-364" media-type="image/jpeg"/>
+      <item href="holb14365" id="pbimage-365" media-type="image/jpeg"/>
+      <item href="holb14366" id="pbimage-366" media-type="image/jpeg"/>
+      <item href="holb14367" id="pbimage-367" media-type="image/jpeg"/>
+      <item href="holb14368" id="pbimage-368" media-type="image/jpeg"/>
+      <item href="holb14369" id="pbimage-369" media-type="image/jpeg"/>
+      <item href="holb14370" id="pbimage-370" media-type="image/jpeg"/>
+      <item href="holb14371" id="pbimage-371" media-type="image/jpeg"/>
+      <item href="holb14372" id="pbimage-372" media-type="image/jpeg"/>
+      <item href="holb14373" id="pbimage-373" media-type="image/jpeg"/>
+      <item href="holb14374" id="pbimage-374" media-type="image/jpeg"/>
+      <item href="holb14375" id="pbimage-375" media-type="image/jpeg"/>
+      <item href="holb14376" id="pbimage-376" media-type="image/jpeg"/>
+      <item href="holb14377" id="pbimage-377" media-type="image/jpeg"/>
+      <item href="holb14378" id="pbimage-378" media-type="image/jpeg"/>
+      <item href="holb14379" id="pbimage-379" media-type="image/jpeg"/>
+      <item href="holb14380" id="pbimage-380" media-type="image/jpeg"/>
+      <item href="holb14381" id="pbimage-381" media-type="image/jpeg"/>
+      <item href="holb14382" id="pbimage-382" media-type="image/jpeg"/>
+      <item href="holb14383" id="pbimage-383" media-type="image/jpeg"/>
+      <item href="holb14384" id="pbimage-384" media-type="image/jpeg"/>
+      <item href="holb14385" id="pbimage-385" media-type="image/jpeg"/>
+      <item href="holb14386" id="pbimage-386" media-type="image/jpeg"/>
+      <item href="holb14387" id="pbimage-387" media-type="image/jpeg"/>
+      <item href="holb14388" id="pbimage-388" media-type="image/jpeg"/>
+      <item href="holb14389" id="pbimage-389" media-type="image/jpeg"/>
+      <item href="holb14390" id="pbimage-390" media-type="image/jpeg"/>
+      <item href="holb14391" id="pbimage-391" media-type="image/jpeg"/>
+      <item href="holb14392" id="pbimage-392" media-type="image/jpeg"/>
+      <item href="holb14393" id="pbimage-393" media-type="image/jpeg"/>
+      <item href="holb14394" id="pbimage-394" media-type="image/jpeg"/>
+      <item href="holb14395" id="pbimage-395" media-type="image/jpeg"/>
+      <item href="holb14396" id="pbimage-396" media-type="image/jpeg"/>
+      <item href="holb14397" id="pbimage-397" media-type="image/jpeg"/>
+      <item href="holb14398" id="pbimage-398" media-type="image/jpeg"/>
+      <item href="holb14399" id="pbimage-399" media-type="image/jpeg"/>
+      <item href="holb14400" id="pbimage-400" media-type="image/jpeg"/>
+      <item href="holb14401" id="pbimage-401" media-type="image/jpeg"/>
+      <item href="holb14402" id="pbimage-402" media-type="image/jpeg"/>
+      <item href="holb14403" id="pbimage-403" media-type="image/jpeg"/>
+      <item href="holb14404" id="pbimage-404" media-type="image/jpeg"/>
+      <item href="holb14405" id="pbimage-405" media-type="image/jpeg"/>
+      <item href="holb14406" id="pbimage-406" media-type="image/jpeg"/>
+      <item href="holb14407" id="pbimage-407" media-type="image/jpeg"/>
+      <item href="holb14408" id="pbimage-408" media-type="image/jpeg"/>
+      <item href="holb14409" id="pbimage-409" media-type="image/jpeg"/>
+      <item href="holb14410" id="pbimage-410" media-type="image/jpeg"/>
+      <item href="holb14411" id="pbimage-411" media-type="image/jpeg"/>
+      <item href="holb14412" id="pbimage-412" media-type="image/jpeg"/>
+      <item href="holb14413" id="pbimage-413" media-type="image/jpeg"/>
+      <item href="holb14414" id="pbimage-414" media-type="image/jpeg"/>
+      <item href="holb14415" id="pbimage-415" media-type="image/jpeg"/>
+      <item href="holb14416" id="pbimage-416" media-type="image/jpeg"/>
+      <item href="holb14417" id="pbimage-417" media-type="image/jpeg"/>
+      <item href="holb14418" id="pbimage-418" media-type="image/jpeg"/>
+      <item href="holb14419" id="pbimage-419" media-type="image/jpeg"/>
+      <item href="holb14420" id="pbimage-420" media-type="image/jpeg"/>
+      <item href="holb14421" id="pbimage-421" media-type="image/jpeg"/>
+      <item href="holb14422" id="pbimage-422" media-type="image/jpeg"/>
+      <item href="holb14423" id="pbimage-423" media-type="image/jpeg"/>
+      <item href="holb14424" id="pbimage-424" media-type="image/jpeg"/>
+      <item href="holb14425" id="pbimage-425" media-type="image/jpeg"/>
+      <item href="holb14426" id="pbimage-426" media-type="image/jpeg"/>
+      <item href="holb14427" id="pbimage-427" media-type="image/jpeg"/>
+      <item href="holb14428" id="pbimage-428" media-type="image/jpeg"/>
+      <item href="holb14429" id="pbimage-429" media-type="image/jpeg"/>
+      <item href="holb14430" id="pbimage-430" media-type="image/jpeg"/>
+      <item href="holb14431" id="pbimage-431" media-type="image/jpeg"/>
+      <item href="holb14432" id="pbimage-432" media-type="image/jpeg"/>
+      <item href="holb14433" id="pbimage-433" media-type="image/jpeg"/>
+      <item href="holb14434" id="pbimage-434" media-type="image/jpeg"/>
+      <item href="holb14435" id="pbimage-435" media-type="image/jpeg"/>
+      <item href="holb14436" id="pbimage-436" media-type="image/jpeg"/>
+      <item href="holb14437" id="pbimage-437" media-type="image/jpeg"/>
+      <item href="holb14438" id="pbimage-438" media-type="image/jpeg"/>
+      <item href="holb14439" id="pbimage-439" media-type="image/jpeg"/>
+      <item href="holb14440" id="pbimage-440" media-type="image/jpeg"/>
+      <item href="holb14441" id="pbimage-441" media-type="image/jpeg"/>
+      <item href="holb14442" id="pbimage-442" media-type="image/jpeg"/>
+      <item href="holb14443" id="pbimage-443" media-type="image/jpeg"/>
+      <item href="holb14444" id="pbimage-444" media-type="image/jpeg"/>
+      <item href="holb14445" id="pbimage-445" media-type="image/jpeg"/>
+      <item href="holb14446" id="pbimage-446" media-type="image/jpeg"/>
+      <item href="holb14447" id="pbimage-447" media-type="image/jpeg"/>
+      <item href="holb14448" id="pbimage-448" media-type="image/jpeg"/>
+      <item href="holb14449" id="pbimage-449" media-type="image/jpeg"/>
+      <item href="holb14450" id="pbimage-450" media-type="image/jpeg"/>
+      <item href="holb14451" id="pbimage-451" media-type="image/jpeg"/>
+      <item href="holb14452" id="pbimage-452" media-type="image/jpeg"/>
+      <item href="holb14453" id="pbimage-453" media-type="image/jpeg"/>
+      <item href="holb14454" id="pbimage-454" media-type="image/jpeg"/>
+      <item href="holb14455" id="pbimage-455" media-type="image/jpeg"/>
+      <item href="holb14456" id="pbimage-456" media-type="image/jpeg"/>
+      <item href="holb14457" id="pbimage-457" media-type="image/jpeg"/>
+      <item href="holb14458" id="pbimage-458" media-type="image/jpeg"/>
+      <item href="holb14459" id="pbimage-459" media-type="image/jpeg"/>
+      <item href="holb14460" id="pbimage-460" media-type="image/jpeg"/>
+      <item href="holb14461" id="pbimage-461" media-type="image/jpeg"/>
+      <item href="holb14462" id="pbimage-462" media-type="image/jpeg"/>
+      <item href="holb14463" id="pbimage-463" media-type="image/jpeg"/>
+      <item href="holb14464" id="pbimage-464" media-type="image/jpeg"/>
+      <item href="holb14465" id="pbimage-465" media-type="image/jpeg"/>
+      <item href="holb14466" id="pbimage-466" media-type="image/jpeg"/>
+      <item href="holb14467" id="pbimage-467" media-type="image/jpeg"/>
+      <item href="holb14468" id="pbimage-468" media-type="image/jpeg"/>
+      <item href="holb14469" id="pbimage-469" media-type="image/jpeg"/>
+      <item href="holb14470" id="pbimage-470" media-type="image/jpeg"/>
+      <item href="holb14471" id="pbimage-471" media-type="image/jpeg"/>
+      <item href="holb14472" id="pbimage-472" media-type="image/jpeg"/>
+      <item href="holb14473" id="pbimage-473" media-type="image/jpeg"/>
+      <item href="holb14474" id="pbimage-474" media-type="image/jpeg"/>
+      <item href="holb14475" id="pbimage-475" media-type="image/jpeg"/>
+      <item href="holb14476" id="pbimage-476" media-type="image/jpeg"/>
+      <item href="holb14477" id="pbimage-477" media-type="image/jpeg"/>
+      <item href="holb14478" id="pbimage-478" media-type="image/jpeg"/>
+      <item href="holb14479" id="pbimage-479" media-type="image/jpeg"/>
+      <item href="holb14480" id="pbimage-480" media-type="image/jpeg"/>
+      <item href="holb14481" id="pbimage-481" media-type="image/jpeg"/>
+      <item href="holb14482" id="pbimage-482" media-type="image/jpeg"/>
+      <item href="holb14483" id="pbimage-483" media-type="image/jpeg"/>
+      <item href="holb14484" id="pbimage-484" media-type="image/jpeg"/>
+      <item href="holb14485" id="pbimage-485" media-type="image/jpeg"/>
+      <item href="holb14486" id="pbimage-486" media-type="image/jpeg"/>
+      <item href="holb14487" id="pbimage-487" media-type="image/jpeg"/>
+      <item href="holb14488" id="pbimage-488" media-type="image/jpeg"/>
+      <item href="holb14489" id="pbimage-489" media-type="image/jpeg"/>
+      <item href="holb14490" id="pbimage-490" media-type="image/jpeg"/>
+      <item href="holb14491" id="pbimage-491" media-type="image/jpeg"/>
+      <item href="holb14492" id="pbimage-492" media-type="image/jpeg"/>
+      <item href="holb14493" id="pbimage-493" media-type="image/jpeg"/>
+      <item href="holb14494" id="pbimage-494" media-type="image/jpeg"/>
+      <item href="holb14495" id="pbimage-495" media-type="image/jpeg"/>
+      <item href="holb14496" id="pbimage-496" media-type="image/jpeg"/>
+      <item href="holb14497" id="pbimage-497" media-type="image/jpeg"/>
+      <item href="holb14498" id="pbimage-498" media-type="image/jpeg"/>
+      <item href="holb14499" id="pbimage-499" media-type="image/jpeg"/>
+      <item href="holb14500" id="pbimage-500" media-type="image/jpeg"/>
+      <item href="holb14501" id="pbimage-501" media-type="image/jpeg"/>
+      <item href="holb14502" id="pbimage-502" media-type="image/jpeg"/>
+      <item href="holb14503" id="pbimage-503" media-type="image/jpeg"/>
+      <item href="holb14504" id="pbimage-504" media-type="image/jpeg"/>
+      <item href="holb14505" id="pbimage-505" media-type="image/jpeg"/>
+      <item href="holb14506" id="pbimage-506" media-type="image/jpeg"/>
+      <item href="holb14507" id="pbimage-507" media-type="image/jpeg"/>
+      <item href="holb14508" id="pbimage-508" media-type="image/jpeg"/>
+      <item href="holb14509" id="pbimage-509" media-type="image/jpeg"/>
+      <item href="holb14510" id="pbimage-510" media-type="image/jpeg"/>
+      <item href="holb14511" id="pbimage-511" media-type="image/jpeg"/>
+      <item href="holb14512" id="pbimage-512" media-type="image/jpeg"/>
+      <item href="holb14513" id="pbimage-513" media-type="image/jpeg"/>
+      <item href="holb14514" id="pbimage-514" media-type="image/jpeg"/>
+      <item href="holb14515" id="pbimage-515" media-type="image/jpeg"/>
+      <item href="holb14516" id="pbimage-516" media-type="image/jpeg"/>
+      <item href="holb14517" id="pbimage-517" media-type="image/jpeg"/>
+      <item href="holb14518" id="pbimage-518" media-type="image/jpeg"/>
+      <item href="holb14519" id="pbimage-519" media-type="image/jpeg"/>
+      <item href="holb14520" id="pbimage-520" media-type="image/jpeg"/>
+      <item href="holb14521" id="pbimage-521" media-type="image/jpeg"/>
+      <item href="holb14522" id="pbimage-522" media-type="image/jpeg"/>
+      <item href="holb14523" id="pbimage-523" media-type="image/jpeg"/>
+      <item href="holb14524" id="pbimage-524" media-type="image/jpeg"/>
+      <item href="holb14525" id="pbimage-525" media-type="image/jpeg"/>
+      <item href="holb14526" id="pbimage-526" media-type="image/jpeg"/>
+      <item href="holb14527" id="pbimage-527" media-type="image/jpeg"/>
+      <item href="holb14528" id="pbimage-528" media-type="image/jpeg"/>
+      <item href="holb14529" id="pbimage-529" media-type="image/jpeg"/>
+      <item href="holb14530" id="pbimage-530" media-type="image/jpeg"/>
+      <item href="holb14531" id="pbimage-531" media-type="image/jpeg"/>
+      <item href="holb14532" id="pbimage-532" media-type="image/jpeg"/>
+      <item href="holb14533" id="pbimage-533" media-type="image/jpeg"/>
+      <item href="holb14534" id="pbimage-534" media-type="image/jpeg"/>
+      <item href="holb14535" id="pbimage-535" media-type="image/jpeg"/>
+      <item href="holb14536" id="pbimage-536" media-type="image/jpeg"/>
+      <item href="holb14537" id="pbimage-537" media-type="image/jpeg"/>
+      <item href="holb14538" id="pbimage-538" media-type="image/jpeg"/>
+      <item href="holb14539" id="pbimage-539" media-type="image/jpeg"/>
+      <item href="holb14540" id="pbimage-540" media-type="image/jpeg"/>
+      <item href="holb14541" id="pbimage-541" media-type="image/jpeg"/>
+      <item href="holb14542" id="pbimage-542" media-type="image/jpeg"/>
+      <item href="holb14543" id="pbimage-543" media-type="image/jpeg"/>
+      <item href="holb14544" id="pbimage-544" media-type="image/jpeg"/>
+      <item href="holb14545" id="pbimage-545" media-type="image/jpeg"/>
+      <item href="holb14546" id="pbimage-546" media-type="image/jpeg"/>
+      <item href="holb14547" id="pbimage-547" media-type="image/jpeg"/>
+      <item href="holb14548" id="pbimage-548" media-type="image/jpeg"/>
+      <item href="holb14549" id="pbimage-549" media-type="image/jpeg"/>
+      <item href="holb14550" id="pbimage-550" media-type="image/jpeg"/>
+      <item href="holb14551" id="pbimage-551" media-type="image/jpeg"/>
+      <item href="holb14552" id="pbimage-552" media-type="image/jpeg"/>
+      <item href="holb14553" id="pbimage-553" media-type="image/jpeg"/>
+      <item href="holb14554" id="pbimage-554" media-type="image/jpeg"/>
+      <item href="holb14555" id="pbimage-555" media-type="image/jpeg"/>
+      <item href="holb14556" id="pbimage-556" media-type="image/jpeg"/>
+      <item href="holb14557" id="pbimage-557" media-type="image/jpeg"/>
+      <item href="holb14558" id="pbimage-558" media-type="image/jpeg"/>
+      <item href="holb14559" id="pbimage-559" media-type="image/jpeg"/>
+      <item href="holb14560" id="pbimage-560" media-type="image/jpeg"/>
+      <item href="holb14561" id="pbimage-561" media-type="image/jpeg"/>
+      <item href="holb14562" id="pbimage-562" media-type="image/jpeg"/>
+      <item href="holb14563" id="pbimage-563" media-type="image/jpeg"/>
+      <item href="holb14564" id="pbimage-564" media-type="image/jpeg"/>
+      <item href="holb14565" id="pbimage-565" media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section43" linear="yes"/>
+      <itemref idref="section77" linear="yes"/>
+      <itemref idref="section134" linear="yes"/>
+      <itemref idref="section167" linear="yes"/>
+      <itemref idref="section204" linear="yes"/>
+      <itemref idref="section235" linear="yes"/>
+      <itemref idref="section255" linear="yes"/>
+      <itemref idref="titlepageback" linear="no"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.html" title="Cover"/>
+      <reference type="text" title="Start" href="index.html"/>
+      <reference type="text" href="index-front.1_div.1.html" title="§"/>
+      <reference type="text" href="index-front.1_div.2.html" title="§"/>
+      <reference type="text" href="workid54555.html" title="[1]"/>
+      <reference type="text" href="workid64787.html" title="[2]"/>
+      <reference type="text" href="workid71363.html" title="[3]"/>
+      <reference type="text" href="workid80786.html" title="[4]"/>
+      <reference type="text" href="workid90815.html" title="[5]"/>
+      <reference type="text" href="workid104431.html" title="[6]"/>
+      <reference type="text"
+                 href="index-back.1_div.1.html"
+                 title="Efterskrift og noter"/>
+      <reference type="text" href="index-back.1_div.2.html" title="Indhold"/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
+   </guide>
+</package>
