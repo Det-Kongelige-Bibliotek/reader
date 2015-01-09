@@ -1,0 +1,348 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">FÆDRA</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Herman Bang.</dc:creator>
+      <meta refines="#creator" property="file-as">Herman Bang.</meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">
+
+        </dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">FÆDRA / Herman Bang.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">KJØBENHAVN. FORLAGT AF J.H. SCHUBOTHES BOGHANDEL. GRÆBES BOGTRYKKERI. 1883</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2015-01-09</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <meta property="dcterms:modified">2015-01-09T13:32:18Z</meta>
+   </metadata>
+   <manifest>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.html"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.html"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.html"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.html"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+      <item href="index-group.1_text.1.html"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-group.1_text.2.html"
+            media-type="application/xhtml+xml"
+            id="section28"/>
+      <item href="bang11fm001" id="pbimage-1" media-type="image/jpeg"/>
+      <item href="bang11fm002" id="pbimage-2" media-type="image/jpeg"/>
+      <item href="bang11fm003" id="pbimage-3" media-type="image/jpeg"/>
+      <item href="bang11fm004" id="pbimage-4" media-type="image/jpeg"/>
+      <item href="bang11fm005" id="pbimage-5" media-type="image/jpeg"/>
+      <item href="bang11fm006" id="pbimage-6" media-type="image/jpeg"/>
+      <item href="bang11fm007" id="pbimage-7" media-type="image/jpeg"/>
+      <item href="bang11fm008" id="pbimage-8" media-type="image/jpeg"/>
+      <item href="bang11001" id="pbimage-9" media-type="image/jpeg"/>
+      <item href="bang11002" id="pbimage-10" media-type="image/jpeg"/>
+      <item href="bang11003" id="pbimage-11" media-type="image/jpeg"/>
+      <item href="bang11004" id="pbimage-12" media-type="image/jpeg"/>
+      <item href="bang11005" id="pbimage-13" media-type="image/jpeg"/>
+      <item href="bang11006" id="pbimage-14" media-type="image/jpeg"/>
+      <item href="bang11007" id="pbimage-15" media-type="image/jpeg"/>
+      <item href="bang11008" id="pbimage-16" media-type="image/jpeg"/>
+      <item href="bang11009" id="pbimage-17" media-type="image/jpeg"/>
+      <item href="bang11010" id="pbimage-18" media-type="image/jpeg"/>
+      <item href="bang11011" id="pbimage-19" media-type="image/jpeg"/>
+      <item href="bang11012" id="pbimage-20" media-type="image/jpeg"/>
+      <item href="bang11013" id="pbimage-21" media-type="image/jpeg"/>
+      <item href="bang11014" id="pbimage-22" media-type="image/jpeg"/>
+      <item href="bang11015" id="pbimage-23" media-type="image/jpeg"/>
+      <item href="bang11016" id="pbimage-24" media-type="image/jpeg"/>
+      <item href="bang11017" id="pbimage-25" media-type="image/jpeg"/>
+      <item href="bang11018" id="pbimage-26" media-type="image/jpeg"/>
+      <item href="bang11019" id="pbimage-27" media-type="image/jpeg"/>
+      <item href="bang11020" id="pbimage-28" media-type="image/jpeg"/>
+      <item href="bang11021" id="pbimage-29" media-type="image/jpeg"/>
+      <item href="bang11022" id="pbimage-30" media-type="image/jpeg"/>
+      <item href="bang11023" id="pbimage-31" media-type="image/jpeg"/>
+      <item href="bang11024" id="pbimage-32" media-type="image/jpeg"/>
+      <item href="bang11025" id="pbimage-33" media-type="image/jpeg"/>
+      <item href="bang11026" id="pbimage-34" media-type="image/jpeg"/>
+      <item href="bang11027" id="pbimage-35" media-type="image/jpeg"/>
+      <item href="bang11028" id="pbimage-36" media-type="image/jpeg"/>
+      <item href="bang11029" id="pbimage-37" media-type="image/jpeg"/>
+      <item href="bang11030" id="pbimage-38" media-type="image/jpeg"/>
+      <item href="bang11031" id="pbimage-39" media-type="image/jpeg"/>
+      <item href="bang11032" id="pbimage-40" media-type="image/jpeg"/>
+      <item href="bang11033" id="pbimage-41" media-type="image/jpeg"/>
+      <item href="bang11034" id="pbimage-42" media-type="image/jpeg"/>
+      <item href="bang11035" id="pbimage-43" media-type="image/jpeg"/>
+      <item href="bang11036" id="pbimage-44" media-type="image/jpeg"/>
+      <item href="bang11037" id="pbimage-45" media-type="image/jpeg"/>
+      <item href="bang11038" id="pbimage-46" media-type="image/jpeg"/>
+      <item href="bang11039" id="pbimage-47" media-type="image/jpeg"/>
+      <item href="bang11040" id="pbimage-48" media-type="image/jpeg"/>
+      <item href="bang11041" id="pbimage-49" media-type="image/jpeg"/>
+      <item href="bang11042" id="pbimage-50" media-type="image/jpeg"/>
+      <item href="bang11043" id="pbimage-51" media-type="image/jpeg"/>
+      <item href="bang11044" id="pbimage-52" media-type="image/jpeg"/>
+      <item href="bang11045" id="pbimage-53" media-type="image/jpeg"/>
+      <item href="bang11046" id="pbimage-54" media-type="image/jpeg"/>
+      <item href="bang11047" id="pbimage-55" media-type="image/jpeg"/>
+      <item href="bang11048" id="pbimage-56" media-type="image/jpeg"/>
+      <item href="bang11049" id="pbimage-57" media-type="image/jpeg"/>
+      <item href="bang11050" id="pbimage-58" media-type="image/jpeg"/>
+      <item href="bang11051" id="pbimage-59" media-type="image/jpeg"/>
+      <item href="bang11052" id="pbimage-60" media-type="image/jpeg"/>
+      <item href="bang11053" id="pbimage-61" media-type="image/jpeg"/>
+      <item href="bang11054" id="pbimage-62" media-type="image/jpeg"/>
+      <item href="bang11055" id="pbimage-63" media-type="image/jpeg"/>
+      <item href="bang11056" id="pbimage-64" media-type="image/jpeg"/>
+      <item href="bang11057" id="pbimage-65" media-type="image/jpeg"/>
+      <item href="bang11058" id="pbimage-66" media-type="image/jpeg"/>
+      <item href="bang11059" id="pbimage-67" media-type="image/jpeg"/>
+      <item href="bang11060" id="pbimage-68" media-type="image/jpeg"/>
+      <item href="bang11061" id="pbimage-69" media-type="image/jpeg"/>
+      <item href="bang11062" id="pbimage-70" media-type="image/jpeg"/>
+      <item href="bang11063" id="pbimage-71" media-type="image/jpeg"/>
+      <item href="bang11064" id="pbimage-72" media-type="image/jpeg"/>
+      <item href="bang11065" id="pbimage-73" media-type="image/jpeg"/>
+      <item href="bang11066" id="pbimage-74" media-type="image/jpeg"/>
+      <item href="bang11067" id="pbimage-75" media-type="image/jpeg"/>
+      <item href="bang11068" id="pbimage-76" media-type="image/jpeg"/>
+      <item href="bang11069" id="pbimage-77" media-type="image/jpeg"/>
+      <item href="bang11070" id="pbimage-78" media-type="image/jpeg"/>
+      <item href="bang11071" id="pbimage-79" media-type="image/jpeg"/>
+      <item href="bang11072" id="pbimage-80" media-type="image/jpeg"/>
+      <item href="bang11073" id="pbimage-81" media-type="image/jpeg"/>
+      <item href="bang11074" id="pbimage-82" media-type="image/jpeg"/>
+      <item href="bang11075" id="pbimage-83" media-type="image/jpeg"/>
+      <item href="bang11076" id="pbimage-84" media-type="image/jpeg"/>
+      <item href="bang11077" id="pbimage-85" media-type="image/jpeg"/>
+      <item href="bang11078" id="pbimage-86" media-type="image/jpeg"/>
+      <item href="bang11079" id="pbimage-87" media-type="image/jpeg"/>
+      <item href="bang11080" id="pbimage-88" media-type="image/jpeg"/>
+      <item href="bang11081" id="pbimage-89" media-type="image/jpeg"/>
+      <item href="bang11082" id="pbimage-90" media-type="image/jpeg"/>
+      <item href="bang11083" id="pbimage-91" media-type="image/jpeg"/>
+      <item href="bang11084" id="pbimage-92" media-type="image/jpeg"/>
+      <item href="bang11085" id="pbimage-93" media-type="image/jpeg"/>
+      <item href="bang11086" id="pbimage-94" media-type="image/jpeg"/>
+      <item href="bang11087" id="pbimage-95" media-type="image/jpeg"/>
+      <item href="bang11088" id="pbimage-96" media-type="image/jpeg"/>
+      <item href="bang11089" id="pbimage-97" media-type="image/jpeg"/>
+      <item href="bang11090" id="pbimage-98" media-type="image/jpeg"/>
+      <item href="bang11091" id="pbimage-99" media-type="image/jpeg"/>
+      <item href="bang11092" id="pbimage-100" media-type="image/jpeg"/>
+      <item href="bang11093" id="pbimage-101" media-type="image/jpeg"/>
+      <item href="bang11094" id="pbimage-102" media-type="image/jpeg"/>
+      <item href="bang11095" id="pbimage-103" media-type="image/jpeg"/>
+      <item href="bang11096" id="pbimage-104" media-type="image/jpeg"/>
+      <item href="bang11097" id="pbimage-105" media-type="image/jpeg"/>
+      <item href="bang11098" id="pbimage-106" media-type="image/jpeg"/>
+      <item href="bang11099" id="pbimage-107" media-type="image/jpeg"/>
+      <item href="bang11100" id="pbimage-108" media-type="image/jpeg"/>
+      <item href="bang11101" id="pbimage-109" media-type="image/jpeg"/>
+      <item href="bang11102" id="pbimage-110" media-type="image/jpeg"/>
+      <item href="bang11103" id="pbimage-111" media-type="image/jpeg"/>
+      <item href="bang11104" id="pbimage-112" media-type="image/jpeg"/>
+      <item href="bang11105" id="pbimage-113" media-type="image/jpeg"/>
+      <item href="bang11106" id="pbimage-114" media-type="image/jpeg"/>
+      <item href="bang11107" id="pbimage-115" media-type="image/jpeg"/>
+      <item href="bang11108" id="pbimage-116" media-type="image/jpeg"/>
+      <item href="bang11109" id="pbimage-117" media-type="image/jpeg"/>
+      <item href="bang11110" id="pbimage-118" media-type="image/jpeg"/>
+      <item href="bang11111" id="pbimage-119" media-type="image/jpeg"/>
+      <item href="bang11112" id="pbimage-120" media-type="image/jpeg"/>
+      <item href="bang11113" id="pbimage-121" media-type="image/jpeg"/>
+      <item href="bang11114" id="pbimage-122" media-type="image/jpeg"/>
+      <item href="bang11115" id="pbimage-123" media-type="image/jpeg"/>
+      <item href="bang11116" id="pbimage-124" media-type="image/jpeg"/>
+      <item href="bang11117" id="pbimage-125" media-type="image/jpeg"/>
+      <item href="bang11118" id="pbimage-126" media-type="image/jpeg"/>
+      <item href="bang11119" id="pbimage-127" media-type="image/jpeg"/>
+      <item href="bang11120" id="pbimage-128" media-type="image/jpeg"/>
+      <item href="bang11121" id="pbimage-129" media-type="image/jpeg"/>
+      <item href="bang11122" id="pbimage-130" media-type="image/jpeg"/>
+      <item href="bang11123" id="pbimage-131" media-type="image/jpeg"/>
+      <item href="bang11124" id="pbimage-132" media-type="image/jpeg"/>
+      <item href="bang11125" id="pbimage-133" media-type="image/jpeg"/>
+      <item href="bang11126" id="pbimage-134" media-type="image/jpeg"/>
+      <item href="bang11127" id="pbimage-135" media-type="image/jpeg"/>
+      <item href="bang11128" id="pbimage-136" media-type="image/jpeg"/>
+      <item href="bang11129" id="pbimage-137" media-type="image/jpeg"/>
+      <item href="bang11130" id="pbimage-138" media-type="image/jpeg"/>
+      <item href="bang11131" id="pbimage-139" media-type="image/jpeg"/>
+      <item href="bang11132" id="pbimage-140" media-type="image/jpeg"/>
+      <item href="bang11133" id="pbimage-141" media-type="image/jpeg"/>
+      <item href="bang11134" id="pbimage-142" media-type="image/jpeg"/>
+      <item href="bang11135" id="pbimage-143" media-type="image/jpeg"/>
+      <item href="bang11136" id="pbimage-144" media-type="image/jpeg"/>
+      <item href="bang11137" id="pbimage-145" media-type="image/jpeg"/>
+      <item href="bang11138" id="pbimage-146" media-type="image/jpeg"/>
+      <item href="bang11139" id="pbimage-147" media-type="image/jpeg"/>
+      <item href="bang11140" id="pbimage-148" media-type="image/jpeg"/>
+      <item href="bang11141" id="pbimage-149" media-type="image/jpeg"/>
+      <item href="bang11142" id="pbimage-150" media-type="image/jpeg"/>
+      <item href="bang11143" id="pbimage-151" media-type="image/jpeg"/>
+      <item href="bang11144" id="pbimage-152" media-type="image/jpeg"/>
+      <item href="bang11145" id="pbimage-153" media-type="image/jpeg"/>
+      <item href="bang11146" id="pbimage-154" media-type="image/jpeg"/>
+      <item href="bang11147" id="pbimage-155" media-type="image/jpeg"/>
+      <item href="bang11148" id="pbimage-156" media-type="image/jpeg"/>
+      <item href="bang11149" id="pbimage-157" media-type="image/jpeg"/>
+      <item href="bang11150" id="pbimage-158" media-type="image/jpeg"/>
+      <item href="bang11151" id="pbimage-159" media-type="image/jpeg"/>
+      <item href="bang11152" id="pbimage-160" media-type="image/jpeg"/>
+      <item href="bang11153" id="pbimage-161" media-type="image/jpeg"/>
+      <item href="bang11154" id="pbimage-162" media-type="image/jpeg"/>
+      <item href="bang11155" id="pbimage-163" media-type="image/jpeg"/>
+      <item href="bang11156" id="pbimage-164" media-type="image/jpeg"/>
+      <item href="bang11157" id="pbimage-165" media-type="image/jpeg"/>
+      <item href="bang11158" id="pbimage-166" media-type="image/jpeg"/>
+      <item href="bang11159" id="pbimage-167" media-type="image/jpeg"/>
+      <item href="bang11160" id="pbimage-168" media-type="image/jpeg"/>
+      <item href="bang11161" id="pbimage-169" media-type="image/jpeg"/>
+      <item href="bang11162" id="pbimage-170" media-type="image/jpeg"/>
+      <item href="bang11163" id="pbimage-171" media-type="image/jpeg"/>
+      <item href="bang11164" id="pbimage-172" media-type="image/jpeg"/>
+      <item href="bang11165" id="pbimage-173" media-type="image/jpeg"/>
+      <item href="bang11166" id="pbimage-174" media-type="image/jpeg"/>
+      <item href="bang11167" id="pbimage-175" media-type="image/jpeg"/>
+      <item href="bang11168" id="pbimage-176" media-type="image/jpeg"/>
+      <item href="bang11169" id="pbimage-177" media-type="image/jpeg"/>
+      <item href="bang11170" id="pbimage-178" media-type="image/jpeg"/>
+      <item href="bang11171" id="pbimage-179" media-type="image/jpeg"/>
+      <item href="bang11172" id="pbimage-180" media-type="image/jpeg"/>
+      <item href="bang11173" id="pbimage-181" media-type="image/jpeg"/>
+      <item href="bang11174" id="pbimage-182" media-type="image/jpeg"/>
+      <item href="bang11175" id="pbimage-183" media-type="image/jpeg"/>
+      <item href="bang11176" id="pbimage-184" media-type="image/jpeg"/>
+      <item href="bang11177" id="pbimage-185" media-type="image/jpeg"/>
+      <item href="bang11178" id="pbimage-186" media-type="image/jpeg"/>
+      <item href="bang11179" id="pbimage-187" media-type="image/jpeg"/>
+      <item href="bang11180" id="pbimage-188" media-type="image/jpeg"/>
+      <item href="bang11181" id="pbimage-189" media-type="image/jpeg"/>
+      <item href="bang11182" id="pbimage-190" media-type="image/jpeg"/>
+      <item href="bang11183" id="pbimage-191" media-type="image/jpeg"/>
+      <item href="bang11184" id="pbimage-192" media-type="image/jpeg"/>
+      <item href="bang11185" id="pbimage-193" media-type="image/jpeg"/>
+      <item href="bang11186" id="pbimage-194" media-type="image/jpeg"/>
+      <item href="bang11187" id="pbimage-195" media-type="image/jpeg"/>
+      <item href="bang11188" id="pbimage-196" media-type="image/jpeg"/>
+      <item href="bang11189" id="pbimage-197" media-type="image/jpeg"/>
+      <item href="bang11190" id="pbimage-198" media-type="image/jpeg"/>
+      <item href="bang11191" id="pbimage-199" media-type="image/jpeg"/>
+      <item href="bang11192" id="pbimage-200" media-type="image/jpeg"/>
+      <item href="bang11193" id="pbimage-201" media-type="image/jpeg"/>
+      <item href="bang11194" id="pbimage-202" media-type="image/jpeg"/>
+      <item href="bang11195" id="pbimage-203" media-type="image/jpeg"/>
+      <item href="bang11196" id="pbimage-204" media-type="image/jpeg"/>
+      <item href="bang11197" id="pbimage-205" media-type="image/jpeg"/>
+      <item href="bang11198" id="pbimage-206" media-type="image/jpeg"/>
+      <item href="bang11199" id="pbimage-207" media-type="image/jpeg"/>
+      <item href="bang11200" id="pbimage-208" media-type="image/jpeg"/>
+      <item href="bang11201" id="pbimage-209" media-type="image/jpeg"/>
+      <item href="bang11202" id="pbimage-210" media-type="image/jpeg"/>
+      <item href="bang11203" id="pbimage-211" media-type="image/jpeg"/>
+      <item href="bang11204" id="pbimage-212" media-type="image/jpeg"/>
+      <item href="bang11205" id="pbimage-213" media-type="image/jpeg"/>
+      <item href="bang11206" id="pbimage-214" media-type="image/jpeg"/>
+      <item href="bang11207" id="pbimage-215" media-type="image/jpeg"/>
+      <item href="bang11208" id="pbimage-216" media-type="image/jpeg"/>
+      <item href="bang11209" id="pbimage-217" media-type="image/jpeg"/>
+      <item href="bang11210" id="pbimage-218" media-type="image/jpeg"/>
+      <item href="bang11211" id="pbimage-219" media-type="image/jpeg"/>
+      <item href="bang11212" id="pbimage-220" media-type="image/jpeg"/>
+      <item href="bang11213" id="pbimage-221" media-type="image/jpeg"/>
+      <item href="bang11214" id="pbimage-222" media-type="image/jpeg"/>
+      <item href="bang11215" id="pbimage-223" media-type="image/jpeg"/>
+      <item href="bang11216" id="pbimage-224" media-type="image/jpeg"/>
+      <item href="bang11217" id="pbimage-225" media-type="image/jpeg"/>
+      <item href="bang11218" id="pbimage-226" media-type="image/jpeg"/>
+      <item href="bang11219" id="pbimage-227" media-type="image/jpeg"/>
+      <item href="bang11220" id="pbimage-228" media-type="image/jpeg"/>
+      <item href="bang11221" id="pbimage-229" media-type="image/jpeg"/>
+      <item href="bang11222" id="pbimage-230" media-type="image/jpeg"/>
+      <item href="bang11223" id="pbimage-231" media-type="image/jpeg"/>
+      <item href="bang11224" id="pbimage-232" media-type="image/jpeg"/>
+      <item href="bang11225" id="pbimage-233" media-type="image/jpeg"/>
+      <item href="bang11226" id="pbimage-234" media-type="image/jpeg"/>
+      <item href="bang11227" id="pbimage-235" media-type="image/jpeg"/>
+      <item href="bang11228" id="pbimage-236" media-type="image/jpeg"/>
+      <item href="bang11229" id="pbimage-237" media-type="image/jpeg"/>
+      <item href="bang11230" id="pbimage-238" media-type="image/jpeg"/>
+      <item href="bang11231" id="pbimage-239" media-type="image/jpeg"/>
+      <item href="bang11232" id="pbimage-240" media-type="image/jpeg"/>
+      <item href="bang11233" id="pbimage-241" media-type="image/jpeg"/>
+      <item href="bang11234" id="pbimage-242" media-type="image/jpeg"/>
+      <item href="bang11235" id="pbimage-243" media-type="image/jpeg"/>
+      <item href="bang11236" id="pbimage-244" media-type="image/jpeg"/>
+      <item href="bang11237" id="pbimage-245" media-type="image/jpeg"/>
+      <item href="bang11238" id="pbimage-246" media-type="image/jpeg"/>
+      <item href="bang11239" id="pbimage-247" media-type="image/jpeg"/>
+      <item href="bang11240" id="pbimage-248" media-type="image/jpeg"/>
+      <item href="bang11241" id="pbimage-249" media-type="image/jpeg"/>
+      <item href="bang11242" id="pbimage-250" media-type="image/jpeg"/>
+      <item href="bang11243" id="pbimage-251" media-type="image/jpeg"/>
+      <item href="bang11244" id="pbimage-252" media-type="image/jpeg"/>
+      <item href="bang11245" id="pbimage-253" media-type="image/jpeg"/>
+      <item href="bang11246" id="pbimage-254" media-type="image/jpeg"/>
+      <item href="bang11247" id="pbimage-255" media-type="image/jpeg"/>
+      <item href="bang11248" id="pbimage-256" media-type="image/jpeg"/>
+      <item href="bang11249" id="pbimage-257" media-type="image/jpeg"/>
+      <item href="bang11250" id="pbimage-258" media-type="image/jpeg"/>
+      <item href="bang11251" id="pbimage-259" media-type="image/jpeg"/>
+      <item href="bang11252" id="pbimage-260" media-type="image/jpeg"/>
+      <item href="bang11253" id="pbimage-261" media-type="image/jpeg"/>
+      <item href="bang11254" id="pbimage-262" media-type="image/jpeg"/>
+      <item href="bang11255" id="pbimage-263" media-type="image/jpeg"/>
+      <item href="bang11256" id="pbimage-264" media-type="image/jpeg"/>
+      <item href="bang11257" id="pbimage-265" media-type="image/jpeg"/>
+      <item href="bang11258" id="pbimage-266" media-type="image/jpeg"/>
+      <item href="bang11259" id="pbimage-267" media-type="image/jpeg"/>
+      <item href="bang11260" id="pbimage-268" media-type="image/jpeg"/>
+      <item href="bang11261" id="pbimage-269" media-type="image/jpeg"/>
+      <item href="bang11262" id="pbimage-270" media-type="image/jpeg"/>
+      <item href="bang11263" id="pbimage-271" media-type="image/jpeg"/>
+      <item href="bang11264" id="pbimage-272" media-type="image/jpeg"/>
+      <item href="bang11265" id="pbimage-273" media-type="image/jpeg"/>
+      <item href="bang11266" id="pbimage-274" media-type="image/jpeg"/>
+      <item href="bang11267" id="pbimage-275" media-type="image/jpeg"/>
+      <item href="bang11268" id="pbimage-276" media-type="image/jpeg"/>
+      <item href="bang11269" id="pbimage-277" media-type="image/jpeg"/>
+      <item href="bang11270" id="pbimage-278" media-type="image/jpeg"/>
+      <item href="bang11271" id="pbimage-279" media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section28" linear="yes"/>
+      <itemref idref="titlepageback" linear="no"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.html" title="Cover"/>
+      <reference type="text" title="Start" href="index.html"/>
+      <reference type="text" href="index-group.1_text.1.html" title="[1]"/>
+      <reference type="text" href="index-group.1_text.2.html" title="[2]"/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
+   </guide>
+</package>
